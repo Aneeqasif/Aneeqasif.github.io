@@ -7,7 +7,7 @@
 !.husky
 !.commitlintrc.json
 !.versionrc.json
-
+!.obsidian
 # bundler cache
 _site
 vendor
