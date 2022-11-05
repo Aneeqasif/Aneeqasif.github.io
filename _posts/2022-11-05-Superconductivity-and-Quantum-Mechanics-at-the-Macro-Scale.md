@@ -131,7 +131,7 @@ this 2 is an important clue which is discussed later
 ## Josephson Effect
 when we put a **constant voltage** across the junction b/w two SC and thin insulator in between it **produce a oscillatory current** in the junction
 
-![](/img/Superconductivity-and-Quantum-Mechanics-at-the-Macro-Scale/josephson.png)
+![josephson](/img/Superconductivity-and-Quantum-Mechanics-at-the-Macro-Scale/josephson.png)
 
 where the frequency of oscillations is given by:
 
