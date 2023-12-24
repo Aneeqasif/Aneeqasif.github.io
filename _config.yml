@@ -39,7 +39,7 @@ social:
   links:
     # The first element serves as the copyright owner's link
     - https://twitter.com/AneeqAzad # change to your twitter homepage
-    - https://github.com/Aneeqasif # change to your github homepage
+    # - https://github.com/Aneeqasif # change to your github homepage
     # Uncomment below to add more social links
     - https://www.linkedin.com/in/muhammad-aneeq-asif-azad-88009b205
     # - https://www.facebook.com/username
@@ -120,7 +120,7 @@ kramdown:
   syntax_highlighter: rouge
   syntax_highlighter_opts: # Rouge Options › https://github.com/jneen/rouge#full-options
     css_class: highlight
-    # default_lang: console
+    default_lang: console
     span:
       line_numbers: false
     block:

@@ -4,26 +4,26 @@
 
 @mixin dark-scheme {
   /* Framework color */
-  --main-bg: rgb(20, 20, 20);
+  --main-bg: rgb(22, 22, 25);
   --mask-bg: rgb(68, 69, 70);
   --main-border-color: rgb(44, 45, 45);
 
   /* Common color */
   --text-color: rgb(175, 176, 177);
-  --text-muted-color: #868686;
+  --text-muted-color: #90909f;
   --text-muted-hightlight-color: #aeaeae;
   --heading-color: #cccccc;
   --label-color: #a7a7a7;
-  --blockquote-border-color: rgb(66, 66, 66);
-  --blockquote-text-color: #868686;
+  --blockquote-border-color: rgb(60, 60, 66);
+  --blockquote-text-color: #7d858e;
   --link-color: rgb(138, 180, 248);
   --link-underline-color: rgb(82, 108, 150);
-  --button-bg: #1e1e1e;
+  --button-bg: #1b1b1f;
   --btn-border-color: #2e2f31;
   --btn-backtotop-color: var(--text-color);
   --btn-backtotop-border-color: #212122;
   --btn-box-shadow: var(--main-bg);
-  --card-header-bg: #292929;
+  --card-header-bg: #26262b;
   --checkbox-color: rgb(118, 120, 121);
   --checkbox-checked-color: var(--link-color);
   --img-bg: radial-gradient(circle, rgb(22, 22, 24) 0%, rgb(32, 32, 32) 100%);
@@ -35,19 +35,19 @@
   );
 
   /* Sidebar */
-  --site-title-color: #717070;
-  --site-subtitle-color: #868686;
-  --sidebar-bg: #1e1e1e;
-  --sidebar-border-color: #292929;
-  --sidebar-muted-color: #868686;
+  --site-title-color: #62676f;
+  --site-subtitle-color: #7d858e;
+  --sidebar-bg: #1b1b1f;
+  --sidebar-border-color: #2b2b32;
+  --sidebar-muted-color: #7d858e;
   --sidebar-active-color: rgb(255, 255, 255, 0.95);
-  --sidebar-hover-bg: #262626;
-  --sidebar-btn-bg: #232328;
-  --sidebar-btn-color: #787878;
+  --sidebar-hover-bg: #27272d;
+  --sidebar-btn-bg: #25252b;
+  --sidebar-btn-color: #6c6c78;
   --avatar-border-color: rgb(206, 206, 206, 0.9);
 
   /* Topbar */
-  --topbar-bg: rgb(20, 20, 20, 0.64);
+  --topbar-bg: rgb(22, 22, 25, 0.64);
   --topbar-text-color: var(--text-color);
   --search-border-color: rgb(55, 55, 55);
   --search-icon-color: rgb(100, 102, 105);
@@ -61,15 +61,15 @@
   /* Posts */
   --toc-highlight: rgb(116, 178, 243);
   --tag-hover: rgb(43, 56, 62);
-  --tb-odd-bg: #252526; /* odd rows of the posts' table */
-  --tb-even-bg: rgb(31, 31, 34); /* even rows of the posts' table */
+  --tb-odd-bg: #1f1f24; /* odd rows of the posts' table */
+  --tb-even-bg: rgb(26, 26, 30); /* even rows of the posts' table */
   --tb-border-color: var(--tb-odd-bg);
   --footnote-target-bg: rgb(63, 81, 181);
   --btn-share-color: #6c757d;
   --btn-share-hover-color: #bfc1ca;
-  --card-bg: #1e1e1e;
-  --card-hovor-bg: #464d51;
-  --card-shadow: rgb(21, 21, 21, 0.72) 0 6px 18px 0,
+  --card-bg: #1b1b1f;
+  --card-hovor-bg: #494955;
+  --card-shadow: rgb(16, 16, 18, 0.99) 0 6px 18px 0,
     rgb(137, 135, 135, 0.24) 0 0 0 1px;
   --kbd-wrap-color: #6a6a6a;
   --kbd-text-color: #d3d3d3;

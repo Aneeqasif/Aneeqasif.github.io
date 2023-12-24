@@ -636,7 +636,9 @@ main {
   box-shadow: none;
   border-color: var(--input-focus-border-color) !important;
   background: center !important;
-  transition: background-color 0.15s ease-in-out, border-color 0.15s ease-in-out;
+  transition:
+    background-color 0.15s ease-in-out,
+    border-color 0.15s ease-in-out;
 }
 
 .left {
@@ -1204,7 +1206,7 @@ search {
       -webkit-backdrop-filter: blur(10px);
       backdrop-filter: blur(10px);
       background-color: rgba(255, 255, 255, 0.5);
-      color: #1b1b1eba;
+      color: #161619ba;
       position: fixed;
       left: 50%;
       bottom: 20%;
